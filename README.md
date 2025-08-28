@@ -31,10 +31,10 @@ Deliverables:
 
 SET UP THE ENVIRONMENT
 
-# create a project folder
+# Create a project folder
 mkdir api-viz-task && cd api-viz-task
 
-# install dependencies
+# Install dependencies
 pip install requests pandas matplotlib streamlit
 
 🚀USAGE
@@ -67,6 +67,7 @@ OUTPUT:
 
 <img width="1650" height="600" alt="Image" src="https://github.com/user-attachments/assets/9c13cb41-0e13-44fd-95c4-ab615c16eed8" />
 
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/0bcac696-655a-4f0c-b38c-106ed7ac5330" />
 
 
 
