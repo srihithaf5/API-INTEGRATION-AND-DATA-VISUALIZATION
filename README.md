@@ -135,7 +135,7 @@ Deploy dashboard online using Streamlit Cloud or Heroku
 
 OUTPUT:
 
-<img width="1896" height="917" alt="Image" src="https://github.com/user-attachments/assets/1e39295e-e22a-4f66-9a2e-121271674b5e" />
+<img width="1817" height="886" alt="Image" src="https://github.com/user-attachments/assets/066a8481-11f4-443b-a8de-47accb954949" />
 
 <img width="1650" height="600" alt="Image" src="https://github.com/user-attachments/assets/9c13cb41-0e13-44fd-95c4-ab615c16eed8" />
 
